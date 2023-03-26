@@ -1,1 +1,2 @@
-**Capstone Project**
+- **Image Extraction**
+- **Capstone Project**
