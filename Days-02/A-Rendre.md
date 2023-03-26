@@ -1,2 +1,2 @@
-**Tp 3 : Web Scraping avec Scrapy**
-**Tp 3 : Web Scraping avec Requests**
+- **Tp 3 : Web Scraping avec Scrapy**
+- **Tp 4 : Web Scraping avec Selenium**
