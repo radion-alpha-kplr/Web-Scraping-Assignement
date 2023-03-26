@@ -1,2 +1,2 @@
-**Tp 1 : Web Scraping avec Selenium**
-**Tp 1 : Web Scraping avec BeautifulSoup**
+- **Tp 1 : Web Scraping avec Request**
+- **Tp 2 : Web Scraping avec BeautifulSoup**
